@@ -184,7 +184,7 @@ DeepSeek · 硅基流动 · 智谱 AI（GLM）· 火山引擎（豆包）· Clou
 
 **自媒体自动化运营**
 
-<img src="assets/wechat-group.jpg" width="220" alt="微信群" />
+<img src="assets/wechat-group.png" width="220" alt="微信群" />
 
 扫码进群（二维码定期更新）<br/>**过期请加左侧微信拉你进群**
 
