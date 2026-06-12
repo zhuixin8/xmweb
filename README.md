@@ -14,6 +14,7 @@
 [![形态](https://img.shields.io/badge/形态-桌面端%20%2B%20网页端-orange)](#-两种使用方式)
 [![下载](https://img.shields.io/badge/⬇_桌面端-下载安装包-2ea44f)](https://github.com/zhuixin8/meiti-ai/releases/latest)
 [![AI](https://img.shields.io/badge/AI-多模型可选-purple)](#-接入的-ai-模型)
+[![授权](https://img.shields.io/badge/授权-专有软件·免费使用-lightgrey)](LICENSE)
 
 ### 📥 [点此下载 Windows 桌面端（最新版）](https://github.com/zhuixin8/meiti-ai/releases/latest)
 
@@ -201,6 +202,14 @@ DeepSeek · 硅基流动 · 智谱 AI（GLM）· 火山引擎（豆包）· Clou
 </td>
 </tr>
 </table>
+
+---
+
+## 📄 授权说明
+
+「美媒」是**免费但专有**的软件:个人可免费使用,但**软件本身不开源**。
+
+本仓库仅包含项目介绍、界面截图、二维码与安装包,**不含源代码**。未经书面授权,禁止反编译、二次分发、转售或克隆为同类产品。详见 [LICENSE](LICENSE)。如需商业授权或合作,请通过上方联系方式联系我们。
 
 ---
 
