@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/social-preview.png" alt="美媒 · AI 自媒体内容运营平台" width="100%" />
+
 # 美媒 · AI 自媒体内容运营平台
 
 ### 一次创作，一键分发到 20+ 主流平台 —— **完全免费**
@@ -10,8 +12,10 @@
 [![平台](https://img.shields.io/badge/一键发布-20+_平台-blue)](#-支持的-20-个平台)
 [![内容](https://img.shields.io/badge/内容形态-图文%20·%20动态%20·%20视频-ff5c5c)](#-核心功能详解)
 [![形态](https://img.shields.io/badge/形态-桌面端%20%2B%20网页端-orange)](#-两种使用方式)
+[![下载](https://img.shields.io/badge/⬇_桌面端-下载安装包-2ea44f)](https://github.com/zhuixin8/meiti-ai/releases/latest)
 [![AI](https://img.shields.io/badge/AI-多模型可选-purple)](#-接入的-ai-模型)
-[![License](https://img.shields.io/badge/License-AGPL--3.0-lightgrey)](LICENSE)
+
+### 📥 [点此下载 Windows 桌面端（最新版）](https://github.com/zhuixin8/meiti-ai/releases/latest)
 
 **👉 [扫码加微信，免费领取使用](#-免费领取--加入交流群) · 进群一起玩转自媒体自动化运营**
 
