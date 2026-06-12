@@ -4,10 +4,11 @@
 
 ### 一次创作，一键分发到 20+ 主流平台 —— **完全免费**
 
-AI 写文 · 去 AI 味 · 多平台自动发布 · 定时托管 · 多账号矩阵
+**图文 · 动态 · 视频** 三种内容，一处创作多平台分发 · AI 写文 · 去 AI 味 · 定时托管 · 多账号矩阵
 
 [![价格](https://img.shields.io/badge/价格-永久免费-success)](#-为什么完全免费)
 [![平台](https://img.shields.io/badge/一键发布-20+_平台-blue)](#-支持的-20-个平台)
+[![内容](https://img.shields.io/badge/内容形态-图文%20·%20动态%20·%20视频-ff5c5c)](#-核心功能详解)
 [![形态](https://img.shields.io/badge/形态-桌面端%20%2B%20网页端-orange)](#-两种使用方式)
 [![AI](https://img.shields.io/badge/AI-多模型可选-purple)](#-接入的-ai-模型)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-lightgrey)](LICENSE)
@@ -22,9 +23,9 @@ AI 写文 · 去 AI 味 · 多平台自动发布 · 定时托管 · 多账号矩
 
 **美媒** 是一款面向自媒体创作者、工作室、矩阵号运营者的 **AI 内容生产 + 多平台自动分发** 平台。
 
-你只需要在一个后台里完成内容创作，剩下的繁琐工作 —— 改写、配图、登录各平台、逐个复制粘贴、排版、设封面、加话题、定时发布 —— **全部交给它自动完成**。
+**图文文章、动态/微头条、视频** 三种内容形态全都能发 —— 你只需要在一个后台里完成创作或上传，剩下的繁琐工作（改写、配图、登录各平台、逐个上传/复制粘贴、排版、设封面、加话题、定时发布）**全部交给它自动完成**。
 
-> 💬 一篇内容，原本要手动发 20 次。现在，**点一次**。
+> 💬 一条内容、一个视频，原本要手动发 20 次。现在，**点一次**。
 
 支持 **网页端**（打开即用）和 **桌面端**（本地浏览器发布、全程可见、更稳），用自己的 AI 密钥成本可控，也能用平台免费额度 0 成本上手。
 
@@ -87,6 +88,8 @@ AI 写文 · 去 AI 味 · 多平台自动发布 · 定时托管 · 多账号矩
 | 微博 | | | |
 
 > 🔌 持续接入更多平台中，欢迎在群里提需求。
+>
+> 🎬 其中 **17 个平台支持视频上传分发**（抖音 / B站 / 快手 / 视频号 / 小红书 / 西瓜 / 头条 / 百家号 / 微博 / TikTok / Instagram / Facebook 等）。
 
 ---
 
@@ -101,8 +104,17 @@ AI 写文 · 去 AI 味 · 多平台自动发布 · 定时托管 · 多账号矩
 - **产品库**：带货 / 品牌运营，统一管理产品资料，写作时自动调用
 - **智能配图**：自动检索高清配图，图文并茂
 
-### 📤 多平台自动发布
-- **一键分发**：一篇内容勾选多个平台 / 多个账号，自动并行发布
+### 🎬 视频上传分发
+- **一个视频，多平台同步**：上传一次，自动分发到抖音、B站、快手、视频号、小红书、西瓜、今日头条、百家号、微博、TikTok、Instagram、Facebook 等 **17 个平台**
+- **自动填资料**：标题、简介、封面、话题/标签、合集、可见性等逐平台自动适配
+- **进度可视**：上传 / 转码 / 发布全程进度可见，失败可重试
+
+### 📣 动态 / 微头条
+- 支持 **动态、微头条、瞬间** 类短内容群发（头条、百家号、B站、抖音、搜狐、公众号等）
+- 适合日常种草、短资讯、互动话题，养号涨粉两不误
+
+### 📤 多平台自动发布（图文 / 动态 / 视频通用）
+- **一键分发**：一条内容勾选多个平台 / 多个账号，自动并行发布
 - **平台适配**：自动处理各平台的标题、正文、封面、话题、可见性、排版差异
 - **真实浏览器自动化**：模拟真人操作发布，稳定可靠
 - **发布日志 & 智能重试**：每次发布全程留痕，失败可一键智能重试
@@ -150,22 +162,37 @@ DeepSeek · 硅基流动 · 智谱 AI（GLM）· 火山引擎（豆包）· Clou
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 👤 加我微信（业精于勤）
+### 👤 加我微信
 
-<img src="assets/wechat-personal.jpg" width="240" alt="微信号" />
+**业精于勤**
 
-扫码加好友，备注「**自媒体**」<br/>领取使用资格 · 拉你进群 · 答疑 · 领最新版
+<img src="assets/wechat-personal.jpg" width="220" alt="微信号" />
+
+加好友备注「**自媒体**」<br/>领使用资格 · 拉你进群 · 领最新版
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 👥 微信群：自媒体自动化运营
+### 👥 微信群
 
-<img src="assets/wechat-group.jpg" width="240" alt="微信群" />
+**自媒体自动化运营**
 
-扫码进群（群二维码定期更新）<br/>**若已过期，请加左侧个人微信拉你进群**
+<img src="assets/wechat-group.jpg" width="220" alt="微信群" />
+
+扫码进群（二维码定期更新）<br/>**过期请加左侧微信拉你进群**
+
+</td>
+<td align="center" width="33%">
+
+### 🐧 QQ 群
+
+**新媒体自动化运营 · 733861251**
+
+<img src="assets/qq-group.jpg" width="220" alt="QQ群" />
+
+扫码 或 [点击加群](https://qm.qq.com/q/2jRwOrOOYg)<br/>搜群号 **733861251** 也可加入
 
 </td>
 </tr>
@@ -179,9 +206,9 @@ DeepSeek · 硅基流动 · 智谱 AI（GLM）· 火山引擎（豆包）· Clou
 
 **Meiti** — a **free** AI-powered content operation platform for social-media creators.
 
-**Create once, publish everywhere.** Generate articles with AI, remove the "AI flavor", and automatically distribute to **20+ major platforms** (Baijiahao, Toutiao, WeChat, Douyin, Bilibili, Kuaishou, Zhihu, Xiaohongshu, Weibo, TikTok, Instagram, Facebook, and more).
+**Create once, publish everywhere.** Generate articles with AI, remove the "AI flavor", and automatically distribute **articles, moments and videos** to **20+ major platforms** (Baijiahao, Toutiao, WeChat, Douyin, Bilibili, Kuaishou, Zhihu, Xiaohongshu, Weibo, TikTok, Instagram, Facebook, and more). **Video upload & distribution is supported on 17 platforms.**
 
-**Key features:** AI writing from trending topics · knowledge base (PDF/Word/Excel/TXT) · per-account persona & style · one-click multi-platform publishing with real-browser automation · scheduled unattended pipelines · multi-account matrix management.
+**Key features:** AI writing from trending topics · **one-click video upload to multiple platforms** · knowledge base (PDF/Word/Excel/TXT) · per-account persona & style · one-click multi-platform publishing with real-browser automation · scheduled unattended pipelines · multi-account matrix management.
 
 **Use your own AI keys** (DeepSeek, SiliconFlow, Zhipu, Volcengine, Cloudflare, any OpenAI-compatible endpoint) or the free quota. Available as a **web app** and a **desktop app**.
 
